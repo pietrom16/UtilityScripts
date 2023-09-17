@@ -1,0 +1,24 @@
+# cli_custom.help
+
+# List of the custom commands added to Bash
+
+	c        clear the console.
+	cd..     move up one directory level.
+	ls       list contents of the current directory (default).
+	l        list contents of the current directory (concise).
+	ll       list contents of the current directory (details).
+	la       list contents of the current directory (details and hidden files).
+	lla
+	dir      list contents of the current directory (clone of MS-DOS :-)
+	topu     top for current user processes only.
+	cc       default C++ compiler.
+
+	Command prompts:
+	pr0      dir>
+	pr1      path>
+	pr2      user:path>
+	pr3      user:dir:n_childs>
+	pr4      user@domain:dir>
+	
+	custom_commands   print this file.
+	bash_commands     print list of most common bash commands.

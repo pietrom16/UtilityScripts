@@ -1,0 +1,19 @@
+# cli.help
+
+# List of the most common Bash commands
+
+	<cmd> -h      command parameter to print a quick help.
+	<cmd> --help  command parameter to print a detailed help.
+	man <cmd>     documentation for the specified command.
+	ls            list files in the curret/specified directory. 
+	cd            move to another directory.
+	clear         clear the console.
+	nano          text editor.
+	gnuplot       plot data/math functions.
+	grep          print lines matching a pattern.
+	fgrep         print lines matching a literal pattern (no metacharacters involved).
+	egrep         print lines matching a pattern (extended version of grep).
+	chmod         change file access rights.
+	sudo <cmd>    run a command that requires administrator priviliges.
+	glxgears      test OpenGL drivers.
+
